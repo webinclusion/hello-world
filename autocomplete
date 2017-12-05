@@ -1,0 +1,5 @@
+<br />
+<input type="tel" autocomplete="on" /><br />
+<input type="email" autocomplete="off" /><br />
+<input type="text" autocomplete  /><br />
+<input type="url"  /><br />
